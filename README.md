@@ -152,7 +152,7 @@ O dashboard foi desenvolvido no **Looker Studio** com foco executivo e visão co
 
 ---
 
-## 👩‍💻 Autor
+## 👨‍💻 Autor
 
 **Sharon Fernando**
 
