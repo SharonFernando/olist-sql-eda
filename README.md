@@ -1,6 +1,6 @@
 # 📊 Brazilian E-commerce Public Dataset | SQL + Dashboard Executivo
 
-Este projeto tem como objetivo realizar uma Análise Exploratória de Dados (EDA) utilizando **SQL no BigQuery**, seguida da construção de um **Dashboard Executivo no Looker Studio**, a partir do Brazilian E-commerce Public Dataset (Olist).
+Este projeto tem como objetivo realizar uma Análise Exploratória de Dados (EDA) utilizando **SQL no BigQuery**, seguida da construção de um **Dashboard Executivo no Google Data Studio**, a partir do Brazilian E-commerce Public Dataset (Olist).
 
 O projeto evolui da exploração técnica dos dados para uma modelagem estruturada e criação de uma camada analítica preparada para consumo em BI.
 
@@ -19,7 +19,7 @@ O projeto evolui da exploração técnica dos dados para uma modelagem estrutura
 ## 🛠️ Tecnologias Utilizadas
 
 - **Google BigQuery** (SQL)
-- **Looker Studio**
+- **Google Data Studio**
 - **GitHub**
 - Dataset público: Brazilian E-commerce Public Dataset (Olist)
 
@@ -93,10 +93,10 @@ GROUP BY
 
 ## 📊 Dashboard Executivo
 
-O dashboard foi desenvolvido no **Looker Studio** com foco executivo e visão consolidada do período selecionado.
+O dashboard foi desenvolvido no **Google Data Studio** com foco executivo e visão consolidada do período selecionado.
 
 🔗 **Acesse o dashboard aqui:** 
-[Visualizar Dashboard](https://lookerstudio.google.com/s/mEOhoQVymTE)
+[Visualizar Dashboard](https://datastudio.google.com/s/v71XRJ0ICkU)
 
 ---
 
@@ -139,7 +139,7 @@ O dashboard foi desenvolvido no **Looker Studio** com foco executivo e visão co
 - Validação entre camada SQL e camada BI 
 - Correção de inconsistência causada por `INNER JOIN` 
 - Consolidação de métricas financeiras na view analítica 
-- Separação entre camada de transformação (BigQuery) e visualização (Looker) 
+- Separação entre camada de transformação (BigQuery) e visualização (Data Studio) 
 
 ---
 
