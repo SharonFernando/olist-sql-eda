@@ -2,6 +2,8 @@
 
 Este projeto tem como objetivo realizar uma Análise Exploratória de Dados (EDA) utilizando **SQL no BigQuery**, seguida da construção de um **Dashboard Executivo no Google Data Studio**, a partir do Brazilian E-commerce Public Dataset (Olist).
 
+[Link para base de dados](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
+
 O projeto evolui da exploração técnica dos dados para uma modelagem estruturada e criação de uma camada analítica preparada para consumo em BI.
 
 ---
