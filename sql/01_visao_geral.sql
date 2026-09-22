@@ -5,4 +5,4 @@ SELECT
   COUNT(DISTINCT customer_id) AS total_clientes,
   MIN(order_purchase_timestamp) AS primeira_venda,
   MAX(order_purchase_timestamp) AS ultima_venda
-FROM `dataset-464615.portifolio2026.orders`;
+FROM `dataset-464615.olist.orders`;
